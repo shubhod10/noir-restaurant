@@ -4,7 +4,7 @@ A premium restaurant landing page concept built with React and Vite.
 
 ## Live Demo
 
-[View Live Demo](https://noir-restaurant-tawny.vercel.app/)
+[View Live Demo](PASTE_YOUR_VERCEL_URL_HERE)
 
 ## Features
 
@@ -30,3 +30,21 @@ A premium restaurant landing page concept built with React and Vite.
 ```bash
 npm install
 npm run dev
+```
+
+## Production Build
+
+```bash
+npm run build
+```
+
+## Project Type
+
+This is a fictional restaurant concept project created for portfolio and freelance showcase purposes.
+
+## Author
+
+Shubhodeep Dey
+
+- Email: deyshubhodeep3@gmail.com
+- Phone: +91 7489471654
