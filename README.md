@@ -4,7 +4,7 @@ A premium restaurant landing page concept built with React and Vite.
 
 ## Live Demo
 
-[View Live Demo](PASTE_YOUR_VERCEL_URL_HERE)
+[View Live Demo](https://noir-restaurant-tawny.vercel.app/)
 
 ## Features
 
